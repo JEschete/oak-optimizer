@@ -1,6 +1,6 @@
 # Oak Optimizer
 
-A Pokemon Generation 3 EXP calculator that helps you find the best grinding spots and calculate how many battles you need to level up.
+A Pokemon EXP calculator that helps you find the best grinding spots and calculate how many battles you need to level up.
 
 Built for Professor Oak Challenge runs and anyone who wants to grind efficiently.
 

@@ -714,6 +714,7 @@ def detect_game_version(data: Dict) -> str:
     
     Ruby/Sapphire JSON has base_labels like "Route101_Ruby", "Route101_Sapphire"
     Emerald JSON has base_labels like "gRoute101"
+    FireRed/LeafGreen JSON has base_labels like "sRoute1_FireRed", "sRoute1_LeafGreen"
     """
     for group in data.get("wild_encounter_groups", []):
         if not group.get("for_maps", False):
@@ -722,6 +723,8 @@ def detect_game_version(data: Dict) -> str:
             base_label = encounter.get("base_label", "")
             if "_Ruby" in base_label or "_Sapphire" in base_label:
                 return "RS"  # Ruby/Sapphire combined file
+            elif "_FireRed" in base_label or "_LeafGreen" in base_label:
+                return "FRLG"  # FireRed/LeafGreen combined file
             elif base_label.startswith("g"):
                 return "Emerald"
     return "Unknown"
@@ -781,6 +784,10 @@ def process_encounters(data: Dict, lucky_egg: bool = False, game_filter: str = N
                 version = "Ruby"
             elif "_Sapphire" in base_label:
                 version = "Sapphire"
+            elif "_FireRed" in base_label:
+                version = "FireRed"
+            elif "_LeafGreen" in base_label:
+                version = "LeafGreen"
             elif detected_game == "Emerald":
                 version = "Emerald"
             else:
@@ -863,7 +870,7 @@ def generate_report(results: Dict[str, Dict], verbose: bool = False, lucky_egg: 
         version = data.get("version", "Unknown")
         by_version[version].append((key, data))
     
-    for version in ["Ruby", "Sapphire", "Emerald", "Unknown"]:
+    for version in ["Ruby", "Sapphire", "Emerald", "FireRed", "LeafGreen", "Unknown"]:
         if version not in by_version:
             continue
             
@@ -989,17 +996,41 @@ def select_json_file() -> str:
     """Let user select or enter a JSON file path."""
     import os
     
-    # Look for JSON files in current directory and common locations
+    # Look for JSON files in the Wild_Encounters folder structure
     json_files = []
-    search_paths = [
-        '.', 
-        './data', 
-        '../data', 
-        os.path.expanduser('~'),
-        '/mnt/user-data/uploads',  # Claude uploads directory
+    
+    # Check for Wild_Encounters folder with Gen subfolders
+    wild_encounter_paths = [
+        './Wild_Encounters',
+        '../Wild_Encounters',
+        './data/Wild_Encounters',
     ]
     
-    for path in search_paths:
+    # Also check legacy/flat paths
+    legacy_paths = [
+        '.',
+        './data',
+        '../data',
+    ]
+    
+    # Search Wild_Encounters/Gen* structure first
+    for base_path in wild_encounter_paths:
+        if os.path.exists(base_path):
+            # Look for Gen1, Gen2, Gen3, etc. subfolders
+            try:
+                for gen_folder in sorted(os.listdir(base_path)):
+                    gen_path = os.path.join(base_path, gen_folder)
+                    if os.path.isdir(gen_path) and gen_folder.lower().startswith('gen'):
+                        for f in os.listdir(gen_path):
+                            if f.endswith('.json'):
+                                full_path = os.path.join(gen_path, f)
+                                if full_path not in json_files:
+                                    json_files.append(full_path)
+            except PermissionError:
+                pass
+    
+    # Also search legacy flat paths
+    for path in legacy_paths:
         if os.path.exists(path):
             try:
                 for f in os.listdir(path):
@@ -1017,7 +1048,16 @@ def select_json_file() -> str:
     if json_files:
         print("\nFound encounter files:")
         for i, f in enumerate(json_files, 1):
-            print(f"  {i}. {f}")
+            # Extract gen info from path if available
+            display_name = f
+            if 'Gen' in f or 'gen' in f:
+                # Show cleaner path for Gen structure
+                parts = f.replace('\\', '/').split('/')
+                for j, part in enumerate(parts):
+                    if part.lower().startswith('gen'):
+                        display_name = '/'.join(parts[j:])
+                        break
+            print(f"  {i}. {display_name}")
         print(f"  {len(json_files) + 1}. Enter custom path")
         
         choice = input("\nSelect option: ").strip()
@@ -1033,7 +1073,7 @@ def select_json_file() -> str:
 
 
 def select_game_version(data: Dict) -> Optional[str]:
-    """Let user select game version filter for RS files."""
+    """Let user select game version filter for combined files."""
     detected = detect_game_version(data)
     
     if detected == "Emerald":
@@ -1044,16 +1084,30 @@ def select_game_version(data: Dict) -> Optional[str]:
     print("GAME VERSION FILTER")
     print("-" * 40)
     print(f"Detected: {detected} combined file")
-    print("\n  1. Show all versions")
-    print("  2. Ruby only")
-    print("  3. Sapphire only")
     
-    choice = input("\nSelect option [1]: ").strip() or "1"
+    if detected == "RS":
+        print("\n  1. Show all versions")
+        print("  2. Ruby only")
+        print("  3. Sapphire only")
+        
+        choice = input("\nSelect option [1]: ").strip() or "1"
+        
+        if choice == "2":
+            return "Ruby"
+        elif choice == "3":
+            return "Sapphire"
+    elif detected == "FRLG":
+        print("\n  1. Show all versions")
+        print("  2. FireRed only")
+        print("  3. LeafGreen only")
+        
+        choice = input("\nSelect option [1]: ").strip() or "1"
+        
+        if choice == "2":
+            return "FireRed"
+        elif choice == "3":
+            return "LeafGreen"
     
-    if choice == "2":
-        return "Ruby"
-    elif choice == "3":
-        return "Sapphire"
     return None
 
 
@@ -1252,6 +1306,8 @@ def battle_calculator_menu(results: Dict, settings: Dict):
 
 def export_menu(results: Dict, settings: Dict, game_label: str):
     """Export data to file."""
+    import os
+    
     clear_screen()
     print("=" * 50)
     print("EXPORT DATA")
@@ -1266,11 +1322,22 @@ def export_menu(results: Dict, settings: Dict, game_label: str):
     if choice == "0":
         return
     
-    filename = input("Output filename: ").strip()
+    # Suggest Sample CSVs folder if it exists
+    default_folder = ""
+    if os.path.exists("./Sample CSVs"):
+        default_folder = "./Sample CSVs/"
+    elif os.path.exists("../Sample CSVs"):
+        default_folder = "../Sample CSVs/"
+    
+    if default_folder:
+        print(f"\nSample CSVs folder found: {default_folder}")
+    
+    filename = input(f"Output filename [{default_folder}{game_label}_Exp_Rates.csv]: ").strip()
     if not filename:
-        print("Cancelled.")
-        pause()
-        return
+        if choice == "3":
+            filename = f"{default_folder}{game_label}_Exp_Rates.csv"
+        else:
+            filename = f"{default_folder}{game_label}_Exp_Report.txt"
     
     if choice == "1":
         output = generate_report(results, settings['verbose'], settings['lucky_egg'], game_label)
@@ -1397,6 +1464,3 @@ def main():
 if __name__ == "__main__":
     main()
 
-
-if __name__ == "__main__":
-    main()

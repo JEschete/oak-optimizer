@@ -297,5 +297,4 @@ MIT License - see [LICENSE](LICENSE) file.
 PRs welcome! Potential improvements:
 - Gen 1/2 support (different EXP formulas)
 - Gen 4+ support
-- Trainer battle EXP calculations
 - GUI version

@@ -1,0 +1,567 @@
+Location,Version,Encounter Type,Expected EXP,Encounter Rate,Efficiency Score
+"Abandoned Ship Hidden Floor Corridors",Ruby,Surfing,306.51,4,76.63
+"Abandoned Ship Hidden Floor Corridors",Ruby,Fishing Old Rod,48.45,20,60.56
+"Abandoned Ship Hidden Floor Corridors",Ruby,Fishing Good Rod,154.03,20,192.54
+"Abandoned Ship Hidden Floor Corridors",Ruby,Fishing Super Rod,541.49,20,676.86
+"Abandoned Ship Hidden Floor Corridors",Sapphire,Surfing,306.51,4,76.63
+"Abandoned Ship Hidden Floor Corridors",Sapphire,Fishing Old Rod,48.45,20,60.56
+"Abandoned Ship Hidden Floor Corridors",Sapphire,Fishing Good Rod,154.03,20,192.54
+"Abandoned Ship Hidden Floor Corridors",Sapphire,Fishing Super Rod,541.49,20,676.86
+"Abandoned Ship Rooms B1F",Ruby,Surfing,306.51,4,76.63
+"Abandoned Ship Rooms B1F",Ruby,Fishing Old Rod,48.45,20,60.56
+"Abandoned Ship Rooms B1F",Ruby,Fishing Good Rod,154.03,20,192.54
+"Abandoned Ship Rooms B1F",Ruby,Fishing Super Rod,541.49,20,676.86
+"Abandoned Ship Rooms B1F",Sapphire,Surfing,306.51,4,76.63
+"Abandoned Ship Rooms B1F",Sapphire,Fishing Old Rod,48.45,20,60.56
+"Abandoned Ship Rooms B1F",Sapphire,Fishing Good Rod,154.03,20,192.54
+"Abandoned Ship Rooms B1F",Sapphire,Fishing Super Rod,541.49,20,676.86
+"Cave Of Origin 1F",Ruby,Grass,363.05,4,90.76
+"Cave Of Origin 1F",Sapphire,Grass,363.05,4,90.76
+"Cave Of Origin B1F",Ruby,Grass,363.05,4,90.76
+"Cave Of Origin B1F",Sapphire,Grass,363.05,4,90.76
+"Cave Of Origin B2F",Ruby,Grass,363.05,4,90.76
+"Cave Of Origin B2F",Sapphire,Grass,363.05,4,90.76
+"Cave Of Origin B3F",Ruby,Grass,363.05,4,90.76
+"Cave Of Origin B3F",Sapphire,Grass,363.05,4,90.76
+"Cave Of Origin Entrance",Ruby,Grass,298.75,4,74.69
+"Cave Of Origin Entrance",Sapphire,Grass,298.75,4,74.69
+"Dewford Town",Ruby,Surfing,276.04,4,69.01
+"Dewford Town",Ruby,Fishing Old Rod,48.45,10,30.28
+"Dewford Town",Ruby,Fishing Good Rod,172.23,10,107.64
+"Dewford Town",Ruby,Fishing Super Rod,573.05,10,358.16
+"Dewford Town",Sapphire,Surfing,276.04,4,69.01
+"Dewford Town",Sapphire,Fishing Old Rod,48.45,10,30.28
+"Dewford Town",Sapphire,Fishing Good Rod,172.23,10,107.64
+"Dewford Town",Sapphire,Fishing Super Rod,573.05,10,358.16
+"Ever Grande City",Ruby,Surfing,276.04,4,69.01
+"Ever Grande City",Ruby,Fishing Old Rod,48.45,10,30.28
+"Ever Grande City",Ruby,Fishing Good Rod,175.00,10,109.38
+"Ever Grande City",Ruby,Fishing Super Rod,574.68,10,359.17
+"Ever Grande City",Sapphire,Surfing,276.04,4,69.01
+"Ever Grande City",Sapphire,Fishing Old Rod,48.45,10,30.28
+"Ever Grande City",Sapphire,Fishing Good Rod,175.00,10,109.38
+"Ever Grande City",Sapphire,Fishing Super Rod,574.68,10,359.17
+"Fiery Path",Ruby,Grass,226.45,10,141.53
+"Fiery Path",Sapphire,Grass,214.26,10,133.91
+"Granite Cave 1F",Ruby,Grass,59.64,10,37.27
+"Granite Cave 1F",Sapphire,Grass,59.64,10,37.27
+"Granite Cave B1F",Ruby,Grass,106.50,10,66.56
+"Granite Cave B1F",Sapphire,Grass,106.50,10,66.56
+"Granite Cave B2F",Ruby,Grass,124.40,10,77.75
+"Granite Cave B2F",Ruby,Rock Smash,160.29,20,200.36
+"Granite Cave B2F",Sapphire,Grass,124.40,10,77.75
+"Granite Cave B2F",Sapphire,Rock Smash,160.29,20,200.36
+"Granite Cave Stevens Room",Ruby,Grass,62.10,10,38.81
+"Granite Cave Stevens Room",Sapphire,Grass,62.10,10,38.81
+"Jagged Pass",Ruby,Grass,228.10,20,285.12
+"Jagged Pass",Sapphire,Grass,252.85,20,316.06
+"Lilycove City",Ruby,Surfing,276.04,4,69.01
+"Lilycove City",Ruby,Fishing Old Rod,48.45,10,30.28
+"Lilycove City",Ruby,Fishing Good Rod,172.23,10,107.64
+"Lilycove City",Ruby,Fishing Super Rod,569.45,10,355.91
+"Lilycove City",Sapphire,Surfing,276.04,4,69.01
+"Lilycove City",Sapphire,Fishing Old Rod,48.45,10,30.28
+"Lilycove City",Sapphire,Fishing Good Rod,172.23,10,107.64
+"Lilycove City",Sapphire,Fishing Super Rod,569.45,10,355.91
+"Meteor Falls 1F 1R",Ruby,Grass,170.35,10,106.47
+"Meteor Falls 1F 1R",Ruby,Surfing,218.81,4,54.70
+"Meteor Falls 1F 1R",Ruby,Fishing Old Rod,50.25,30,94.22
+"Meteor Falls 1F 1R",Ruby,Fishing Good Rod,149.86,30,280.98
+"Meteor Falls 1F 1R",Ruby,Fishing Super Rod,384.65,30,721.22
+"Meteor Falls 1F 1R",Sapphire,Grass,170.35,10,106.47
+"Meteor Falls 1F 1R",Sapphire,Surfing,218.81,4,54.70
+"Meteor Falls 1F 1R",Sapphire,Fishing Old Rod,50.25,30,94.22
+"Meteor Falls 1F 1R",Sapphire,Fishing Good Rod,149.86,30,280.98
+"Meteor Falls 1F 1R",Sapphire,Fishing Super Rod,384.65,30,721.22
+"Meteor Falls 1F 2R",Ruby,Grass,817.45,10,510.91
+"Meteor Falls 1F 2R",Ruby,Surfing,765.54,4,191.38
+"Meteor Falls 1F 2R",Ruby,Fishing Old Rod,50.25,30,94.22
+"Meteor Falls 1F 2R",Ruby,Fishing Good Rod,149.86,30,280.98
+"Meteor Falls 1F 2R",Ruby,Fishing Super Rod,468.47,30,878.38
+"Meteor Falls 1F 2R",Sapphire,Grass,817.45,10,510.91
+"Meteor Falls 1F 2R",Sapphire,Surfing,765.54,4,191.38
+"Meteor Falls 1F 2R",Sapphire,Fishing Old Rod,50.25,30,94.22
+"Meteor Falls 1F 2R",Sapphire,Fishing Good Rod,149.86,30,280.98
+"Meteor Falls 1F 2R",Sapphire,Fishing Super Rod,468.47,30,878.38
+"Meteor Falls B1F 1R",Ruby,Grass,817.45,10,510.91
+"Meteor Falls B1F 1R",Ruby,Surfing,765.54,4,191.38
+"Meteor Falls B1F 1R",Ruby,Fishing Old Rod,50.25,30,94.22
+"Meteor Falls B1F 1R",Ruby,Fishing Good Rod,149.86,30,280.98
+"Meteor Falls B1F 1R",Ruby,Fishing Super Rod,468.47,30,878.38
+"Meteor Falls B1F 1R",Sapphire,Grass,817.45,10,510.91
+"Meteor Falls B1F 1R",Sapphire,Surfing,765.54,4,191.38
+"Meteor Falls B1F 1R",Sapphire,Fishing Old Rod,50.25,30,94.22
+"Meteor Falls B1F 1R",Sapphire,Fishing Good Rod,149.86,30,280.98
+"Meteor Falls B1F 1R",Sapphire,Fishing Super Rod,468.47,30,878.38
+"Meteor Falls B1F 2R",Ruby,Grass,721.85,10,451.16
+"Meteor Falls B1F 2R",Ruby,Surfing,765.54,4,191.38
+"Meteor Falls B1F 2R",Ruby,Fishing Old Rod,50.25,30,94.22
+"Meteor Falls B1F 2R",Ruby,Fishing Good Rod,149.86,30,280.98
+"Meteor Falls B1F 2R",Ruby,Fishing Super Rod,468.47,30,878.38
+"Meteor Falls B1F 2R",Sapphire,Grass,721.85,10,451.16
+"Meteor Falls B1F 2R",Sapphire,Surfing,765.54,4,191.38
+"Meteor Falls B1F 2R",Sapphire,Fishing Old Rod,50.25,30,94.22
+"Meteor Falls B1F 2R",Sapphire,Fishing Good Rod,149.86,30,280.98
+"Meteor Falls B1F 2R",Sapphire,Fishing Super Rod,468.47,30,878.38
+"Mossdeep City",Ruby,Surfing,276.04,4,69.01
+"Mossdeep City",Ruby,Fishing Old Rod,48.45,10,30.28
+"Mossdeep City",Ruby,Fishing Good Rod,172.23,10,107.64
+"Mossdeep City",Ruby,Fishing Super Rod,697.60,10,436.00
+"Mossdeep City",Sapphire,Surfing,276.04,4,69.01
+"Mossdeep City",Sapphire,Fishing Old Rod,48.45,10,30.28
+"Mossdeep City",Sapphire,Fishing Good Rod,172.23,10,107.64
+"Mossdeep City",Sapphire,Fishing Super Rod,697.60,10,436.00
+"Mt Pyre 1F",Ruby,Grass,364.05,10,227.53
+"Mt Pyre 1F",Sapphire,Grass,364.05,10,227.53
+"Mt Pyre 2F",Ruby,Grass,364.05,10,227.53
+"Mt Pyre 2F",Sapphire,Grass,364.05,10,227.53
+"Mt Pyre 3F",Ruby,Grass,364.05,10,227.53
+"Mt Pyre 3F",Sapphire,Grass,364.05,10,227.53
+"Mt Pyre 4F",Ruby,Grass,364.79,10,227.99
+"Mt Pyre 4F",Sapphire,Grass,364.79,10,227.99
+"Mt Pyre 5F",Ruby,Grass,364.79,10,227.99
+"Mt Pyre 5F",Sapphire,Grass,364.79,10,227.99
+"Mt Pyre 6F",Ruby,Grass,364.79,10,227.99
+"Mt Pyre 6F",Sapphire,Grass,364.79,10,227.99
+"Mt Pyre Exterior",Ruby,Grass,334.81,10,209.26
+"Mt Pyre Exterior",Sapphire,Grass,334.81,10,209.26
+"Mt Pyre Summit",Ruby,Grass,386.06,10,241.29
+"Mt Pyre Summit",Sapphire,Grass,386.06,10,241.29
+"New Mauville Entrance",Ruby,Grass,328.70,10,205.44
+"New Mauville Entrance",Sapphire,Grass,328.70,10,205.44
+"New Mauville Inside",Ruby,Grass,334.23,10,208.89
+"New Mauville Inside",Sapphire,Grass,334.23,10,208.89
+"Pacifidlog Town",Ruby,Surfing,276.04,4,69.01
+"Pacifidlog Town",Ruby,Fishing Old Rod,48.45,10,30.28
+"Pacifidlog Town",Ruby,Fishing Good Rod,172.23,10,107.64
+"Pacifidlog Town",Ruby,Fishing Super Rod,697.60,10,436.00
+"Pacifidlog Town",Sapphire,Surfing,276.04,4,69.01
+"Pacifidlog Town",Sapphire,Fishing Old Rod,48.45,10,30.28
+"Pacifidlog Town",Sapphire,Fishing Good Rod,172.23,10,107.64
+"Pacifidlog Town",Sapphire,Fishing Super Rod,697.60,10,436.00
+"Petalburg City",Ruby,Surfing,177.71,1,11.11
+"Petalburg City",Ruby,Fishing Old Rod,50.25,10,31.41
+"Petalburg City",Ruby,Fishing Good Rod,160.71,10,100.45
+"Petalburg City",Ruby,Fishing Super Rod,464.22,10,290.14
+"Petalburg City",Sapphire,Surfing,177.71,1,11.11
+"Petalburg City",Sapphire,Fishing Old Rod,50.25,10,31.41
+"Petalburg City",Sapphire,Fishing Good Rod,160.71,10,100.45
+"Petalburg City",Sapphire,Fishing Super Rod,464.22,10,290.14
+"Petalburg Woods",Ruby,Grass,46.20,20,57.75
+"Petalburg Woods",Sapphire,Grass,46.20,20,57.75
+"Route 101",Ruby,Grass,19.26,20,24.08
+"Route 101",Sapphire,Grass,19.26,20,24.08
+"Route 102",Ruby,Grass,29.02,20,36.27
+"Route 102",Ruby,Surfing,179.34,4,44.84
+"Route 102",Ruby,Fishing Old Rod,50.25,30,94.22
+"Route 102",Ruby,Fishing Good Rod,160.71,30,301.34
+"Route 102",Ruby,Fishing Super Rod,464.22,30,870.41
+"Route 102",Sapphire,Grass,29.02,20,36.27
+"Route 102",Sapphire,Surfing,179.34,4,44.84
+"Route 102",Sapphire,Fishing Old Rod,50.25,30,94.22
+"Route 102",Sapphire,Fishing Good Rod,160.71,30,301.34
+"Route 102",Sapphire,Fishing Super Rod,464.22,30,870.41
+"Route 103",Ruby,Grass,23.50,20,29.38
+"Route 103",Ruby,Surfing,276.04,4,69.01
+"Route 103",Ruby,Fishing Old Rod,48.45,30,90.84
+"Route 103",Ruby,Fishing Good Rod,172.23,30,322.93
+"Route 103",Ruby,Fishing Super Rod,697.60,30,1307.99
+"Route 103",Sapphire,Grass,23.50,20,29.38
+"Route 103",Sapphire,Surfing,276.04,4,69.01
+"Route 103",Sapphire,Fishing Old Rod,48.45,30,90.84
+"Route 103",Sapphire,Fishing Good Rod,172.23,30,322.93
+"Route 103",Sapphire,Fishing Super Rod,697.60,30,1307.99
+"Route 104",Ruby,Grass,35.75,20,44.69
+"Route 104",Ruby,Surfing,205.51,4,51.38
+"Route 104",Ruby,Fishing Old Rod,21.00,30,39.38
+"Route 104",Ruby,Fishing Good Rod,56.71,30,106.34
+"Route 104",Ruby,Fishing Super Rod,83.32,30,156.22
+"Route 104",Sapphire,Grass,35.75,20,44.69
+"Route 104",Sapphire,Surfing,205.51,4,51.38
+"Route 104",Sapphire,Fishing Old Rod,21.00,30,39.38
+"Route 104",Sapphire,Fishing Good Rod,56.71,30,106.34
+"Route 104",Sapphire,Fishing Super Rod,83.32,30,156.22
+"Route 105",Ruby,Surfing,276.04,4,69.01
+"Route 105",Ruby,Fishing Old Rod,48.45,30,90.84
+"Route 105",Ruby,Fishing Good Rod,172.23,30,322.93
+"Route 105",Ruby,Fishing Super Rod,573.05,30,1074.48
+"Route 105",Sapphire,Surfing,276.04,4,69.01
+"Route 105",Sapphire,Fishing Old Rod,48.45,30,90.84
+"Route 105",Sapphire,Fishing Good Rod,172.23,30,322.93
+"Route 105",Sapphire,Fishing Super Rod,573.05,30,1074.48
+"Route 106",Ruby,Surfing,276.04,4,69.01
+"Route 106",Ruby,Fishing Old Rod,48.45,30,90.84
+"Route 106",Ruby,Fishing Good Rod,172.23,30,322.93
+"Route 106",Ruby,Fishing Super Rod,573.05,30,1074.48
+"Route 106",Sapphire,Surfing,276.04,4,69.01
+"Route 106",Sapphire,Fishing Old Rod,48.45,30,90.84
+"Route 106",Sapphire,Fishing Good Rod,172.23,30,322.93
+"Route 106",Sapphire,Fishing Super Rod,573.05,30,1074.48
+"Route 107",Ruby,Surfing,276.04,4,69.01
+"Route 107",Ruby,Fishing Old Rod,48.45,30,90.84
+"Route 107",Ruby,Fishing Good Rod,172.23,30,322.93
+"Route 107",Ruby,Fishing Super Rod,573.05,30,1074.48
+"Route 107",Sapphire,Surfing,276.04,4,69.01
+"Route 107",Sapphire,Fishing Old Rod,48.45,30,90.84
+"Route 107",Sapphire,Fishing Good Rod,172.23,30,322.93
+"Route 107",Sapphire,Fishing Super Rod,573.05,30,1074.48
+"Route 108",Ruby,Surfing,276.04,4,69.01
+"Route 108",Ruby,Fishing Old Rod,48.45,30,90.84
+"Route 108",Ruby,Fishing Good Rod,172.23,30,322.93
+"Route 108",Ruby,Fishing Super Rod,573.05,30,1074.48
+"Route 108",Sapphire,Surfing,276.04,4,69.01
+"Route 108",Sapphire,Fishing Old Rod,48.45,30,90.84
+"Route 108",Sapphire,Fishing Good Rod,172.23,30,322.93
+"Route 108",Sapphire,Fishing Super Rod,573.05,30,1074.48
+"Route 109",Ruby,Surfing,276.04,4,69.01
+"Route 109",Ruby,Fishing Old Rod,48.45,30,90.84
+"Route 109",Ruby,Fishing Good Rod,172.23,30,322.93
+"Route 109",Ruby,Fishing Super Rod,573.05,30,1074.48
+"Route 109",Sapphire,Surfing,276.04,4,69.01
+"Route 109",Sapphire,Fishing Old Rod,48.45,30,90.84
+"Route 109",Sapphire,Fishing Good Rod,172.23,30,322.93
+"Route 109",Sapphire,Fishing Super Rod,573.05,30,1074.48
+"Route 110",Ruby,Grass,131.94,20,164.93
+"Route 110",Ruby,Surfing,276.04,4,69.01
+"Route 110",Ruby,Fishing Old Rod,48.45,30,90.84
+"Route 110",Ruby,Fishing Good Rod,172.23,30,322.93
+"Route 110",Ruby,Fishing Super Rod,573.05,30,1074.48
+"Route 110",Sapphire,Grass,131.94,20,164.93
+"Route 110",Sapphire,Surfing,276.04,4,69.01
+"Route 110",Sapphire,Fishing Old Rod,48.45,30,90.84
+"Route 110",Sapphire,Fishing Good Rod,172.23,30,322.93
+"Route 110",Sapphire,Fishing Super Rod,573.05,30,1074.48
+"Route 111",Ruby,Grass,239.74,10,149.84
+"Route 111",Ruby,Surfing,179.34,4,44.84
+"Route 111",Ruby,Rock Smash,119.55,20,149.44
+"Route 111",Ruby,Fishing Old Rod,50.25,30,94.22
+"Route 111",Ruby,Fishing Good Rod,149.86,30,280.98
+"Route 111",Ruby,Fishing Super Rod,384.65,30,721.22
+"Route 111",Sapphire,Grass,239.74,10,149.84
+"Route 111",Sapphire,Surfing,179.34,4,44.84
+"Route 111",Sapphire,Rock Smash,119.55,20,149.44
+"Route 111",Sapphire,Fishing Old Rod,50.25,30,94.22
+"Route 111",Sapphire,Fishing Good Rod,149.86,30,280.98
+"Route 111",Sapphire,Fishing Super Rod,384.65,30,721.22
+"Route 112",Ruby,Grass,180.10,20,225.12
+"Route 112",Sapphire,Grass,180.10,20,225.12
+"Route 113",Ruby,Grass,194.50,20,243.12
+"Route 113",Sapphire,Grass,194.50,20,243.12
+"Route 114",Ruby,Grass,224.47,20,280.59
+"Route 114",Ruby,Surfing,179.34,4,44.84
+"Route 114",Ruby,Rock Smash,119.55,20,149.44
+"Route 114",Ruby,Fishing Old Rod,50.25,30,94.22
+"Route 114",Ruby,Fishing Good Rod,149.86,30,280.98
+"Route 114",Ruby,Fishing Super Rod,384.65,30,721.22
+"Route 114",Sapphire,Grass,224.47,20,280.59
+"Route 114",Sapphire,Surfing,179.34,4,44.84
+"Route 114",Sapphire,Rock Smash,119.55,20,149.44
+"Route 114",Sapphire,Fishing Old Rod,50.25,30,94.22
+"Route 114",Sapphire,Fishing Good Rod,149.86,30,280.98
+"Route 114",Sapphire,Fishing Super Rod,384.65,30,721.22
+"Route 115",Ruby,Grass,261.32,20,326.65
+"Route 115",Ruby,Surfing,276.04,4,69.01
+"Route 115",Ruby,Fishing Old Rod,48.45,30,90.84
+"Route 115",Ruby,Fishing Good Rod,172.23,30,322.93
+"Route 115",Ruby,Fishing Super Rod,573.05,30,1074.48
+"Route 115",Sapphire,Grass,261.32,20,326.65
+"Route 115",Sapphire,Surfing,276.04,4,69.01
+"Route 115",Sapphire,Fishing Old Rod,48.45,30,90.84
+"Route 115",Sapphire,Fishing Good Rod,172.23,30,322.93
+"Route 115",Sapphire,Fishing Super Rod,573.05,30,1074.48
+"Route 116",Ruby,Grass,58.41,20,73.01
+"Route 116",Sapphire,Grass,58.41,20,73.01
+"Route 117",Ruby,Grass,200.44,20,250.55
+"Route 117",Ruby,Surfing,179.34,4,44.84
+"Route 117",Ruby,Fishing Old Rod,50.25,30,94.22
+"Route 117",Ruby,Fishing Good Rod,160.71,30,301.34
+"Route 117",Ruby,Fishing Super Rod,464.22,30,870.41
+"Route 117",Sapphire,Grass,200.44,20,250.55
+"Route 117",Sapphire,Surfing,179.34,4,44.84
+"Route 117",Sapphire,Fishing Old Rod,50.25,30,94.22
+"Route 117",Sapphire,Fishing Good Rod,160.71,30,301.34
+"Route 117",Sapphire,Fishing Super Rod,464.22,30,870.41
+"Route 118",Ruby,Grass,287.63,20,359.54
+"Route 118",Ruby,Surfing,276.04,4,69.01
+"Route 118",Ruby,Fishing Old Rod,48.45,30,90.84
+"Route 118",Ruby,Fishing Good Rod,144.23,30,270.43
+"Route 118",Ruby,Fishing Super Rod,554.82,30,1040.29
+"Route 118",Sapphire,Grass,287.63,20,359.54
+"Route 118",Sapphire,Surfing,276.04,4,69.01
+"Route 118",Sapphire,Fishing Old Rod,48.45,30,90.84
+"Route 118",Sapphire,Fishing Good Rod,144.23,30,270.43
+"Route 118",Sapphire,Fishing Super Rod,554.82,30,1040.29
+"Route 119",Ruby,Grass,361.97,15,339.35
+"Route 119",Ruby,Surfing,276.04,4,69.01
+"Route 119",Ruby,Fishing Old Rod,48.45,30,90.84
+"Route 119",Ruby,Fishing Good Rod,144.23,30,270.43
+"Route 119",Ruby,Fishing Super Rod,367.95,30,689.91
+"Route 119",Sapphire,Grass,361.97,15,339.35
+"Route 119",Sapphire,Surfing,276.04,4,69.01
+"Route 119",Sapphire,Fishing Old Rod,48.45,30,90.84
+"Route 119",Sapphire,Fishing Good Rod,144.23,30,270.43
+"Route 119",Sapphire,Fishing Super Rod,367.95,30,689.91
+"Route 120",Ruby,Grass,355.59,20,444.49
+"Route 120",Ruby,Surfing,179.34,4,44.84
+"Route 120",Ruby,Fishing Old Rod,50.25,30,94.22
+"Route 120",Ruby,Fishing Good Rod,149.86,30,280.98
+"Route 120",Ruby,Fishing Super Rod,384.65,30,721.22
+"Route 120",Sapphire,Grass,355.59,20,444.49
+"Route 120",Sapphire,Surfing,179.34,4,44.84
+"Route 120",Sapphire,Fishing Old Rod,50.25,30,94.22
+"Route 120",Sapphire,Fishing Good Rod,149.86,30,280.98
+"Route 120",Sapphire,Fishing Super Rod,384.65,30,721.22
+"Route 121",Ruby,Grass,358.29,20,447.86
+"Route 121",Ruby,Surfing,276.04,4,69.01
+"Route 121",Ruby,Fishing Old Rod,48.45,30,90.84
+"Route 121",Ruby,Fishing Good Rod,172.23,30,322.93
+"Route 121",Ruby,Fishing Super Rod,573.05,30,1074.48
+"Route 121",Sapphire,Grass,358.29,20,447.86
+"Route 121",Sapphire,Surfing,276.04,4,69.01
+"Route 121",Sapphire,Fishing Old Rod,48.45,30,90.84
+"Route 121",Sapphire,Fishing Good Rod,172.23,30,322.93
+"Route 121",Sapphire,Fishing Super Rod,573.05,30,1074.48
+"Route 122",Ruby,Surfing,276.04,4,69.01
+"Route 122",Ruby,Fishing Old Rod,48.45,30,90.84
+"Route 122",Ruby,Fishing Good Rod,172.23,30,322.93
+"Route 122",Ruby,Fishing Super Rod,697.60,30,1307.99
+"Route 122",Sapphire,Surfing,276.04,4,69.01
+"Route 122",Sapphire,Fishing Old Rod,48.45,30,90.84
+"Route 122",Sapphire,Fishing Good Rod,172.23,30,322.93
+"Route 122",Sapphire,Fishing Super Rod,697.60,30,1307.99
+"Route 123",Ruby,Grass,358.29,20,447.86
+"Route 123",Ruby,Surfing,276.04,4,69.01
+"Route 123",Ruby,Fishing Old Rod,48.45,30,90.84
+"Route 123",Ruby,Fishing Good Rod,172.23,30,322.93
+"Route 123",Ruby,Fishing Super Rod,573.05,30,1074.48
+"Route 123",Sapphire,Grass,358.29,20,447.86
+"Route 123",Sapphire,Surfing,276.04,4,69.01
+"Route 123",Sapphire,Fishing Old Rod,48.45,30,90.84
+"Route 123",Sapphire,Fishing Good Rod,172.23,30,322.93
+"Route 123",Sapphire,Fishing Super Rod,573.05,30,1074.48
+"Route 124",Ruby,Surfing,276.04,4,69.01
+"Route 124",Ruby,Fishing Old Rod,48.45,30,90.84
+"Route 124",Ruby,Fishing Good Rod,172.23,30,322.93
+"Route 124",Ruby,Fishing Super Rod,697.60,30,1307.99
+"Route 124",Sapphire,Surfing,276.04,4,69.01
+"Route 124",Sapphire,Fishing Old Rod,48.45,30,90.84
+"Route 124",Sapphire,Fishing Good Rod,172.23,30,322.93
+"Route 124",Sapphire,Fishing Super Rod,697.60,30,1307.99
+"Route 125",Ruby,Surfing,276.04,4,69.01
+"Route 125",Ruby,Fishing Old Rod,48.45,30,90.84
+"Route 125",Ruby,Fishing Good Rod,172.23,30,322.93
+"Route 125",Ruby,Fishing Super Rod,697.60,30,1307.99
+"Route 125",Sapphire,Surfing,276.04,4,69.01
+"Route 125",Sapphire,Fishing Old Rod,48.45,30,90.84
+"Route 125",Sapphire,Fishing Good Rod,172.23,30,322.93
+"Route 125",Sapphire,Fishing Super Rod,697.60,30,1307.99
+"Route 126",Ruby,Surfing,276.04,4,69.01
+"Route 126",Ruby,Fishing Old Rod,48.45,30,90.84
+"Route 126",Ruby,Fishing Good Rod,172.23,30,322.93
+"Route 126",Ruby,Fishing Super Rod,697.60,30,1307.99
+"Route 126",Sapphire,Surfing,276.04,4,69.01
+"Route 126",Sapphire,Fishing Old Rod,48.45,30,90.84
+"Route 126",Sapphire,Fishing Good Rod,172.23,30,322.93
+"Route 126",Sapphire,Fishing Super Rod,697.60,30,1307.99
+"Route 127",Ruby,Surfing,276.04,4,69.01
+"Route 127",Ruby,Fishing Old Rod,48.45,30,90.84
+"Route 127",Ruby,Fishing Good Rod,172.23,30,322.93
+"Route 127",Ruby,Fishing Super Rod,697.60,30,1307.99
+"Route 127",Sapphire,Surfing,276.04,4,69.01
+"Route 127",Sapphire,Fishing Old Rod,48.45,30,90.84
+"Route 127",Sapphire,Fishing Good Rod,172.23,30,322.93
+"Route 127",Sapphire,Fishing Super Rod,697.60,30,1307.99
+"Route 128",Ruby,Surfing,276.04,4,69.01
+"Route 128",Ruby,Fishing Old Rod,48.45,30,90.84
+"Route 128",Ruby,Fishing Good Rod,175.00,30,328.12
+"Route 128",Ruby,Fishing Super Rod,574.68,30,1077.52
+"Route 128",Sapphire,Surfing,276.04,4,69.01
+"Route 128",Sapphire,Fishing Old Rod,48.45,30,90.84
+"Route 128",Sapphire,Fishing Good Rod,175.00,30,328.12
+"Route 128",Sapphire,Fishing Super Rod,574.68,30,1077.52
+"Route 129",Ruby,Surfing,280.64,4,70.16
+"Route 129",Ruby,Fishing Old Rod,48.45,30,90.84
+"Route 129",Ruby,Fishing Good Rod,172.23,30,322.93
+"Route 129",Ruby,Fishing Super Rod,697.60,30,1307.99
+"Route 129",Sapphire,Surfing,277.69,4,69.42
+"Route 129",Sapphire,Fishing Old Rod,48.45,30,90.84
+"Route 129",Sapphire,Fishing Good Rod,172.23,30,322.93
+"Route 129",Sapphire,Fishing Super Rod,697.60,30,1307.99
+"Route 130",Ruby,Grass,188.15,20,235.19
+"Route 130",Ruby,Surfing,276.04,4,69.01
+"Route 130",Ruby,Fishing Old Rod,48.45,30,90.84
+"Route 130",Ruby,Fishing Good Rod,172.23,30,322.93
+"Route 130",Ruby,Fishing Super Rod,697.60,30,1307.99
+"Route 130",Sapphire,Grass,188.15,20,235.19
+"Route 130",Sapphire,Surfing,276.04,4,69.01
+"Route 130",Sapphire,Fishing Old Rod,48.45,30,90.84
+"Route 130",Sapphire,Fishing Good Rod,172.23,30,322.93
+"Route 130",Sapphire,Fishing Super Rod,697.60,30,1307.99
+"Route 131",Ruby,Surfing,276.04,4,69.01
+"Route 131",Ruby,Fishing Old Rod,48.45,30,90.84
+"Route 131",Ruby,Fishing Good Rod,172.23,30,322.93
+"Route 131",Ruby,Fishing Super Rod,697.60,30,1307.99
+"Route 131",Sapphire,Surfing,276.04,4,69.01
+"Route 131",Sapphire,Fishing Old Rod,48.45,30,90.84
+"Route 131",Sapphire,Fishing Good Rod,172.23,30,322.93
+"Route 131",Sapphire,Fishing Super Rod,697.60,30,1307.99
+"Route 132",Ruby,Surfing,276.04,4,69.01
+"Route 132",Ruby,Fishing Old Rod,48.45,30,90.84
+"Route 132",Ruby,Fishing Good Rod,172.23,30,322.93
+"Route 132",Ruby,Fishing Super Rod,665.77,30,1248.32
+"Route 132",Sapphire,Surfing,276.04,4,69.01
+"Route 132",Sapphire,Fishing Old Rod,48.45,30,90.84
+"Route 132",Sapphire,Fishing Good Rod,172.23,30,322.93
+"Route 132",Sapphire,Fishing Super Rod,665.77,30,1248.32
+"Route 133",Ruby,Surfing,276.04,4,69.01
+"Route 133",Ruby,Fishing Old Rod,48.45,30,90.84
+"Route 133",Ruby,Fishing Good Rod,172.23,30,322.93
+"Route 133",Ruby,Fishing Super Rod,665.77,30,1248.32
+"Route 133",Sapphire,Surfing,276.04,4,69.01
+"Route 133",Sapphire,Fishing Old Rod,48.45,30,90.84
+"Route 133",Sapphire,Fishing Good Rod,172.23,30,322.93
+"Route 133",Sapphire,Fishing Super Rod,665.77,30,1248.32
+"Route 134",Ruby,Surfing,276.04,4,69.01
+"Route 134",Ruby,Fishing Old Rod,48.45,30,90.84
+"Route 134",Ruby,Fishing Good Rod,172.23,30,322.93
+"Route 134",Ruby,Fishing Super Rod,665.77,30,1248.32
+"Route 134",Sapphire,Surfing,276.04,4,69.01
+"Route 134",Sapphire,Fishing Old Rod,48.45,30,90.84
+"Route 134",Sapphire,Fishing Good Rod,172.23,30,322.93
+"Route 134",Sapphire,Fishing Super Rod,665.77,30,1248.32
+"Rusturf Tunnel",Ruby,Grass,62.90,10,39.31
+"Rusturf Tunnel",Sapphire,Grass,62.90,10,39.31
+"Safari Zone Northeast",Ruby,Grass,441.21,25,689.39
+"Safari Zone Northeast",Ruby,Rock Smash,122.68,25,191.69
+"Safari Zone Northeast",Sapphire,Grass,441.21,25,689.39
+"Safari Zone Northeast",Sapphire,Rock Smash,122.68,25,191.69
+"Safari Zone Northwest",Ruby,Grass,465.12,25,726.75
+"Safari Zone Northwest",Ruby,Surfing,315.67,9,177.56
+"Safari Zone Northwest",Ruby,Fishing Old Rod,50.25,35,109.92
+"Safari Zone Northwest",Ruby,Fishing Good Rod,152.78,35,334.21
+"Safari Zone Northwest",Ruby,Fishing Super Rod,541.68,35,1184.92
+"Safari Zone Northwest",Sapphire,Grass,465.12,25,726.75
+"Safari Zone Northwest",Sapphire,Surfing,315.67,9,177.56
+"Safari Zone Northwest",Sapphire,Fishing Old Rod,50.25,35,109.92
+"Safari Zone Northwest",Sapphire,Fishing Good Rod,152.78,35,334.21
+"Safari Zone Northwest",Sapphire,Fishing Super Rod,541.68,35,1184.92
+"Safari Zone Southeast",Ruby,Grass,393.50,25,614.84
+"Safari Zone Southeast",Sapphire,Grass,393.50,25,614.84
+"Safari Zone Southwest",Ruby,Grass,393.50,25,614.84
+"Safari Zone Southwest",Ruby,Surfing,293.85,9,165.29
+"Safari Zone Southwest",Ruby,Fishing Old Rod,50.25,35,109.92
+"Safari Zone Southwest",Ruby,Fishing Good Rod,152.78,35,334.21
+"Safari Zone Southwest",Ruby,Fishing Super Rod,541.68,35,1184.92
+"Safari Zone Southwest",Sapphire,Grass,396.30,25,619.22
+"Safari Zone Southwest",Sapphire,Surfing,293.85,9,165.29
+"Safari Zone Southwest",Sapphire,Fishing Old Rod,50.25,35,109.92
+"Safari Zone Southwest",Sapphire,Fishing Good Rod,152.78,35,334.21
+"Safari Zone Southwest",Sapphire,Fishing Super Rod,541.68,35,1184.92
+"Seafloor Cavern Entrance",Ruby,Surfing,278.35,4,69.59
+"Seafloor Cavern Entrance",Ruby,Fishing Old Rod,48.45,10,30.28
+"Seafloor Cavern Entrance",Ruby,Fishing Good Rod,172.23,10,107.64
+"Seafloor Cavern Entrance",Ruby,Fishing Super Rod,573.05,10,358.16
+"Seafloor Cavern Entrance",Sapphire,Surfing,278.35,4,69.59
+"Seafloor Cavern Entrance",Sapphire,Fishing Old Rod,48.45,10,30.28
+"Seafloor Cavern Entrance",Sapphire,Fishing Good Rod,172.23,10,107.64
+"Seafloor Cavern Entrance",Sapphire,Fishing Super Rod,573.05,10,358.16
+"Seafloor Cavern Room1",Ruby,Grass,298.75,4,74.69
+"Seafloor Cavern Room1",Sapphire,Grass,298.75,4,74.69
+"Seafloor Cavern Room2",Ruby,Grass,298.75,4,74.69
+"Seafloor Cavern Room2",Sapphire,Grass,298.75,4,74.69
+"Seafloor Cavern Room3",Ruby,Grass,298.75,4,74.69
+"Seafloor Cavern Room3",Sapphire,Grass,298.75,4,74.69
+"Seafloor Cavern Room4",Ruby,Grass,298.75,4,74.69
+"Seafloor Cavern Room4",Sapphire,Grass,298.75,4,74.69
+"Seafloor Cavern Room5",Ruby,Grass,298.75,4,74.69
+"Seafloor Cavern Room5",Sapphire,Grass,298.75,4,74.69
+"Seafloor Cavern Room6",Ruby,Grass,298.75,4,74.69
+"Seafloor Cavern Room6",Ruby,Surfing,278.35,4,69.59
+"Seafloor Cavern Room6",Ruby,Fishing Old Rod,48.45,10,30.28
+"Seafloor Cavern Room6",Ruby,Fishing Good Rod,172.23,10,107.64
+"Seafloor Cavern Room6",Ruby,Fishing Super Rod,573.05,10,358.16
+"Seafloor Cavern Room6",Sapphire,Grass,298.75,4,74.69
+"Seafloor Cavern Room6",Sapphire,Surfing,278.35,4,69.59
+"Seafloor Cavern Room6",Sapphire,Fishing Old Rod,48.45,10,30.28
+"Seafloor Cavern Room6",Sapphire,Fishing Good Rod,172.23,10,107.64
+"Seafloor Cavern Room6",Sapphire,Fishing Super Rod,573.05,10,358.16
+"Seafloor Cavern Room7",Ruby,Grass,298.75,4,74.69
+"Seafloor Cavern Room7",Ruby,Surfing,278.35,4,69.59
+"Seafloor Cavern Room7",Ruby,Fishing Old Rod,48.45,10,30.28
+"Seafloor Cavern Room7",Ruby,Fishing Good Rod,172.23,10,107.64
+"Seafloor Cavern Room7",Ruby,Fishing Super Rod,573.05,10,358.16
+"Seafloor Cavern Room7",Sapphire,Grass,298.75,4,74.69
+"Seafloor Cavern Room7",Sapphire,Surfing,278.35,4,69.59
+"Seafloor Cavern Room7",Sapphire,Fishing Old Rod,48.45,10,30.28
+"Seafloor Cavern Room7",Sapphire,Fishing Good Rod,172.23,10,107.64
+"Seafloor Cavern Room7",Sapphire,Fishing Super Rod,573.05,10,358.16
+"Seafloor Cavern Room8",Ruby,Grass,298.75,4,74.69
+"Seafloor Cavern Room8",Sapphire,Grass,298.75,4,74.69
+"Shoal Cave Low Tide Entrance Room",Ruby,Grass,287.95,10,179.97
+"Shoal Cave Low Tide Entrance Room",Ruby,Surfing,255.85,4,63.96
+"Shoal Cave Low Tide Entrance Room",Ruby,Fishing Old Rod,48.45,10,30.28
+"Shoal Cave Low Tide Entrance Room",Ruby,Fishing Good Rod,172.23,10,107.64
+"Shoal Cave Low Tide Entrance Room",Ruby,Fishing Super Rod,573.05,10,358.16
+"Shoal Cave Low Tide Entrance Room",Sapphire,Grass,287.95,10,179.97
+"Shoal Cave Low Tide Entrance Room",Sapphire,Surfing,255.85,4,63.96
+"Shoal Cave Low Tide Entrance Room",Sapphire,Fishing Old Rod,48.45,10,30.28
+"Shoal Cave Low Tide Entrance Room",Sapphire,Fishing Good Rod,172.23,10,107.64
+"Shoal Cave Low Tide Entrance Room",Sapphire,Fishing Super Rod,573.05,10,358.16
+"Shoal Cave Low Tide Ice Room",Ruby,Grass,285.30,10,178.31
+"Shoal Cave Low Tide Ice Room",Sapphire,Grass,285.30,10,178.31
+"Shoal Cave Low Tide Inner Room",Ruby,Grass,287.95,10,179.97
+"Shoal Cave Low Tide Inner Room",Ruby,Surfing,255.85,4,63.96
+"Shoal Cave Low Tide Inner Room",Ruby,Fishing Old Rod,48.45,10,30.28
+"Shoal Cave Low Tide Inner Room",Ruby,Fishing Good Rod,172.23,10,107.64
+"Shoal Cave Low Tide Inner Room",Ruby,Fishing Super Rod,573.05,10,358.16
+"Shoal Cave Low Tide Inner Room",Sapphire,Grass,287.95,10,179.97
+"Shoal Cave Low Tide Inner Room",Sapphire,Surfing,255.85,4,63.96
+"Shoal Cave Low Tide Inner Room",Sapphire,Fishing Old Rod,48.45,10,30.28
+"Shoal Cave Low Tide Inner Room",Sapphire,Fishing Good Rod,172.23,10,107.64
+"Shoal Cave Low Tide Inner Room",Sapphire,Fishing Super Rod,573.05,10,358.16
+"Shoal Cave Low Tide Lower Room",Ruby,Grass,287.95,10,179.97
+"Shoal Cave Low Tide Lower Room",Sapphire,Grass,287.95,10,179.97
+"Shoal Cave Low Tide Stairs Room",Ruby,Grass,287.95,10,179.97
+"Shoal Cave Low Tide Stairs Room",Sapphire,Grass,287.95,10,179.97
+"Sky Pillar 1F",Ruby,Grass,1074.20,10,671.38
+"Sky Pillar 1F",Sapphire,Grass,1074.20,10,671.38
+"Sky Pillar 3F",Ruby,Grass,1140.50,10,712.81
+"Sky Pillar 3F",Sapphire,Grass,1140.50,10,712.81
+"Sky Pillar 5F",Ruby,Grass,1212.14,10,757.59
+"Sky Pillar 5F",Sapphire,Grass,1212.14,10,757.59
+"Slateport City",Ruby,Surfing,276.04,4,69.01
+"Slateport City",Ruby,Fishing Old Rod,48.45,10,30.28
+"Slateport City",Ruby,Fishing Good Rod,172.23,10,107.64
+"Slateport City",Ruby,Fishing Super Rod,573.05,10,358.16
+"Slateport City",Sapphire,Surfing,276.04,4,69.01
+"Slateport City",Sapphire,Fishing Old Rod,48.45,10,30.28
+"Slateport City",Sapphire,Fishing Good Rod,172.23,10,107.64
+"Slateport City",Sapphire,Fishing Super Rod,573.05,10,358.16
+"Sootopolis City",Ruby,Surfing,57.80,1,3.61
+"Sootopolis City",Ruby,Fishing Old Rod,25.30,10,15.81
+"Sootopolis City",Ruby,Fishing Good Rod,56.71,10,35.45
+"Sootopolis City",Ruby,Fishing Super Rod,302.44,10,189.02
+"Sootopolis City",Sapphire,Surfing,57.80,1,3.61
+"Sootopolis City",Sapphire,Fishing Old Rod,48.45,10,30.28
+"Sootopolis City",Sapphire,Fishing Good Rod,56.71,10,35.45
+"Sootopolis City",Sapphire,Fishing Super Rod,302.44,10,189.02
+"Underwater1",Ruby,Surfing,479.22,4,119.80
+"Underwater1",Sapphire,Surfing,479.22,4,119.80
+"Underwater2",Ruby,Surfing,479.22,4,119.80
+"Underwater2",Sapphire,Surfing,479.22,4,119.80
+"Victory Road 1F",Ruby,Grass,754.60,10,471.63
+"Victory Road 1F",Sapphire,Grass,754.60,10,471.63
+"Victory Road B1F",Ruby,Grass,949.20,10,593.25
+"Victory Road B1F",Ruby,Rock Smash,582.84,20,728.55
+"Victory Road B1F",Sapphire,Grass,949.20,10,593.25
+"Victory Road B1F",Sapphire,Rock Smash,582.84,20,728.55
+"Victory Road B2F",Ruby,Grass,819.86,10,512.41
+"Victory Road B2F",Ruby,Surfing,769.07,4,192.27
+"Victory Road B2F",Ruby,Fishing Old Rod,50.25,30,94.22
+"Victory Road B2F",Ruby,Fishing Good Rod,149.86,30,280.98
+"Victory Road B2F",Ruby,Fishing Super Rod,468.47,30,878.38
+"Victory Road B2F",Sapphire,Grass,819.86,10,512.41
+"Victory Road B2F",Sapphire,Surfing,769.07,4,192.27
+"Victory Road B2F",Sapphire,Fishing Old Rod,50.25,30,94.22
+"Victory Road B2F",Sapphire,Fishing Good Rod,149.86,30,280.98
+"Victory Road B2F",Sapphire,Fishing Super Rod,468.47,30,878.38

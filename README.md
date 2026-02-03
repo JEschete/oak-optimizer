@@ -148,8 +148,7 @@ Grass
 ------------------------------------------------------------
    #  Location                       Ver          EXP Rate      Eff
    1. Sky Pillar 5F                  Emerald   1212.1   10    757.6
-   2. Safari Zone Northwest          Emerald    465.1   25    726.8
-   3. Sky Pillar 3F                  Emerald   1140.5   10    712.8
+   2. Sky Pillar 3F                  Emerald   1140.5   10    712.8
 ```
 
 #### 3. Search Location
@@ -183,7 +182,6 @@ EXP needed to reach level 16: 1,535
 
 Top 15 locations by efficiency:
    1. Sky Pillar 5F              (grass          ) - 1212.1 EXP, Eff: 757.6
-   2. Safari Zone Northwest      (grass          ) - 465.1 EXP, Eff: 726.8
    ...
 
 Select number or search: 2
@@ -196,7 +194,7 @@ Current: Level 10 (1,000 EXP)
 Target:  Level 16 (2,535 EXP)
 EXP Needed: 1,535
 
-Location: Safari Zone Northwest (grass)
+Location: ~~Safari Zone Northwest (grass)~~ (Not possible, fix later)
 Expected EXP/battle: 465.1
 Lucky Egg: No
 
